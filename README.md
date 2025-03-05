@@ -4,6 +4,8 @@ A comprehensive Flutter application demonstrating various UI components, design 
 
 ## App Preview
 
+https://github.com/user-attachments/assets/c717c429-d638-45ec-bb01-1f6833f38742
+
 ## What You'll Learn
 
 ### 1. Material Components
